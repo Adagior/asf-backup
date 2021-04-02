@@ -18,3 +18,12 @@ screen -U -r asf
 kill -9 pid
 
 ```
+```
+
+{
+  "SteamLogin": "?????",
+  "SteamPassword": "???????",
+  "Enabled": true
+}
+
+```
