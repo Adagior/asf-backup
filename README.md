@@ -9,7 +9,7 @@ https://github.com/JustArchiNET/ArchiSteamFarm/releases/
 rpm -Uvh https://packages.microsoft.com/config/centos/8/packages-microsoft-prod.rpm
 yum install dotnet-runtime-5.0
 
-
+yum install epel-release
 yum install screen -y
 
 screen -S asf
