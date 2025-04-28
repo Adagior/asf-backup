@@ -13,6 +13,7 @@ yum install epel-release
 yum install screen -y
 
 screen -S asf
+./ArchiSteamFarm
 screen -ls
 screen -U -r asf
 kill -9 pid
